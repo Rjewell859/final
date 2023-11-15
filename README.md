@@ -27,7 +27,6 @@ This project is a the front and back end code for a social media api. I have uti
 =======
 * The user experience begins in '/html/index.html', which is the sign up page.
 * Important note: You will need to make a change in database.php to ensure the proper database port is utilized. Default is 3306.
->>>>>>> 5ecea3976083d7cae17eba7a40080f8ed01b77fe
 
 ### Usage
 
